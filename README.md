@@ -1,7 +1,7 @@
 # sql-case-studies
 Solutions to Danny's Diner and Pizza Runner
 
-I worked with realistic business datasets to have an idea about the kinds of questions a stakeholder would want to know about his business
+I worked with realistic business datasets to have an idea about the kinds of questions a stakeholder would want to know about their business
 
 ## Case Studies
 
